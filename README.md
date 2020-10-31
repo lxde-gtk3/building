@@ -10,10 +10,9 @@ mkdir -p /var/build/lxde
 cd /var/build/lxde
 git clone https://github.com/lxde-gtk3/libfm
 git clone https://github.com/lxde-gtk3/pcmanfm
+git clone https://github.com/lxde-gtk3/lxpanel
+git clone https://github.com/lxde-gtk3/lxsession
 ```
-
-# building order
-libfm -> pcmanfm 
 
 # compiling
 `debuild -us -uc -b`
