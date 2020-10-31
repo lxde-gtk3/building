@@ -10,3 +10,6 @@ mkdir -p /var/build/lxde
 cd /var/build/lxde
 git clone https://github.com/lxde-gtk3/libfm
 ```
+
+# compiling
+`debuild -us -uc -b`
