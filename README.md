@@ -9,7 +9,11 @@ apt install `gtk-doc-tools intltool libdbus-glib-1-dev libglib2.0-dev libgtk2.0-
 mkdir -p /var/build/lxde
 cd /var/build/lxde
 git clone https://github.com/lxde-gtk3/libfm
+git clone https://github.com/lxde-gtk3/pcmanfm
 ```
+
+# building order
+libfm -> pcmanfm 
 
 # compiling
 `debuild -us -uc -b`
