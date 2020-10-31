@@ -2,7 +2,7 @@
 apt install `devscripts build-essential git`
 
 # build dependencies
-apt install `gtk-doc-tools intltool libdbus-glib-1-dev libglib2.0-dev libgtk2.0-dev libexif-dev libmenu-cache-dev  pkg-config valac libglib2.0-doc libgtk-3-doc`
+apt install `gtk-doc-tools intltool libdbus-glib-1-dev libglib2.0-dev libgtk2.0-dev libexif-dev libmenu-cache-dev  pkg-config valac libglib2.0-doc libgtk-3-doc libgtk-3-dev`
 
 # getting sources
 ```shell
