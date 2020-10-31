@@ -12,6 +12,7 @@ git clone https://github.com/lxde-gtk3/libfm
 git clone https://github.com/lxde-gtk3/pcmanfm
 git clone https://github.com/lxde-gtk3/lxpanel
 git clone https://github.com/lxde-gtk3/lxsession
+git clone https://github.com/lxde-gtk3/lxde-common
 ```
 
 # compiling
