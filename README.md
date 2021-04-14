@@ -14,7 +14,6 @@ git clone https://github.com/lxde-gtk3/lxpanel
 git clone https://github.com/lxde-gtk3/lxsession
 git clone https://github.com/lxde-gtk3/lxde-common
 git clone https://github.com/lxde-gtk3/lxappearance
-git clone https://github.com/lxde-gtk3/lxappearance-obconf
 git clone https://github.com/lxde-gtk3/lxlauncher
 git clone https://github.com/lxde-gtk3/lxrandr
 git clone https://github.com/lxde-gtk3/lxtask
